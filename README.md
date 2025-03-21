@@ -5,7 +5,7 @@ Arşive alınmış projenin canlıya çekilmiş hali
 ## 💾 Kurulum
 
 1. **[cloudstream/pre-release](https://github.com/recloudstream/cloudstream/releases/tag/pre-release)** _Adresinden güncel APK dosyasını indirip kurun._
-2. **Uygulamanın yüklü olduğu cihazda** _[depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/master/repo.json)_
+2. **Uygulamanın yüklü olduğu cihazda** _[depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/maarrem/cs-Kekik/master/repo.json)_
   - **veya**
   - `Depo ekle` _butonuyla **manuel** ekleme yapmak isteyen arkadaşlar için_ `kekikdevam` _**kısa kod**u mevcuttur._ `Depo ismi` _kısmını boş bırakarak_ `Depo URL'si` _kısmına_ `kekikdevam` yazarak `Depo ekle` _demeniz yeterli.._
 
@@ -20,6 +20,10 @@ Arşive alınmış projenin canlıya çekilmiş hali
 
 ---
 
-<a href="https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/graphs/contributors?selectedMetric=additions" target="_blank">
-  <img src="https://contrib.rocks/image?repo=ramazansancar/keyiflerolsun_Kekik-cloudstream" />
+💬 via : https://forum.sinetech.tr/
+
+---
+
+<a href="https://github.com/maarrem/cs-Kekik/graphs/contributors?selectedMetric=additions" target="_blank">
+  <img src="https://contrib.rocks/image?repo=maarrem/cs-Kekik" />
 </a>
